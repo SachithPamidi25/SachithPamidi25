@@ -13,7 +13,8 @@ I'm interested in distributed systems, security engineering, low-latency archite
 
 ## Tech Stack
 
-**Languages:** Java, C++, SQL  
+**Languages:** Java, C, C++, Python, JavaScript, TypeScript, SQL  
+**Frontend:** React, TypeScript, JavaScript, Vite, HTML, CSS  
 **Backend:** Spring Boot, Spring Security, REST APIs, JPA/Hibernate  
 **Databases:** PostgreSQL, Redis  
 **Messaging:** RabbitMQ  
