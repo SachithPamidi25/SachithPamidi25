@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Sachith
 
-<!--
-**SachithPamidi25/SachithPamidi25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused SWE building production-grade systems with Java, Spring Boot, PostgreSQL, Redis, RabbitMQ, Docker, and cloud-native backend patterns.
 
-Here are some ideas to get you started:
+I'm interested in distributed systems, security engineering, low-latency architecture, and building reliable backend infrastructure that can handle concurrency, failure, and scale.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Software Engineering student focused on backend and system design
+- Preparing for top-tier SWE roles through DSA, projects, and CS fundamentals
+- Building systems with async processing, caching, transactional consistency, and secure APIs
+- Interested in backend reliability, distributed architecture, and security-first engineering
+
+## Tech Stack
+
+**Languages:** Java, C++, SQL  
+**Backend:** Spring Boot, Spring Security, REST APIs, JPA/Hibernate  
+**Databases:** PostgreSQL, Redis  
+**Messaging:** RabbitMQ  
+**DevOps:** Docker, Docker Compose, GitHub Actions  
+**Interests:** Distributed Systems, Security Engineering, Low-Latency Backends, System Design
+
+## Featured Work
+
+### LedgerLens
+
+AI-powered expense intelligence backend designed around production-grade backend patterns.
+
+Key engineering areas:
+
+- Presigned receipt uploads using S3-compatible storage
+- Immutable metadata persistence with PostgreSQL
+- Async extraction pipeline using RabbitMQ
+- Redis caching and concurrency control
+- Double-entry ledger generation
+- Transactional Outbox Pattern for reliable event publishing
+- Server-Sent Events for lifecycle streaming
+- Idempotency keys for retry-safe upload orchestration
+
+## Current Goals
+
+- Master DSA for product-company interviews
+- Build strong backend and distributed systems projects
+- Improve system design depth
+- Learn cloud, observability, and reliability engineering
+- Become a FAANG-level Software Engineer
