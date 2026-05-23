@@ -21,6 +21,12 @@ I'm interested in distributed systems, security engineering, low-latency archite
 **DevOps:** Docker, Docker Compose, GitHub Actions  
 **Interests:** Distributed Systems, Security Engineering, Low-Latency Backends, System Design
 
+## Contact
+
+- **Email:** [work.sachithpamidi@gmail.com](mailto:work.sachithpamidi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sachith-pamidi-a607a827a](https://www.linkedin.com/in/sachith-pamidi-a607a827a/)
+- **LeetCode:** [leetcode.com/u/sachithpamidi](https://leetcode.com/u/sachithpamidi/)
+
 ## Featured Work
 
 ### LedgerLens
